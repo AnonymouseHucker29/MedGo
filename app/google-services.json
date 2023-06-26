@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "848565593077",
+    "project_id": "medgoapp-da9fd",
+    "storage_bucket": "medgoapp-da9fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848565593077:android:c4e14e36b444e2ab0fb6bc",
+        "android_client_info": {
+          "package_name": "com.brentokloy.medgo.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848565593077-hejnar51489u8kkfkj8b9pq1slai4csj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxLgESf1vBaocQoA-BbvaQhtXbnkq-SVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848565593077-hejnar51489u8kkfkj8b9pq1slai4csj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

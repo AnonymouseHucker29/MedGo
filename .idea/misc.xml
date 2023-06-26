@@ -1,0 +1,34 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Brent/AppData/Local/Android/Sdk/platforms/android-31/data/res/drawable/gallery_item_background.xml" value="0.1" />
+        <entry key="..\:/Users/Brent/Desktop/Projects/MedGo/app/src/main/res/drawable/ic_baseline_account_balance_wallet_24.xml" value="0.1" />
+        <entry key="..\:/Users/Brent/Desktop/Projects/MedGo/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.1" />
+        <entry key="..\:/Users/Brent/Desktop/Projects/MedGo/app/src/main/res/layout-v28/fragment_accset.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Brent/Desktop/Projects/MedGo/app/src/main/res/layout/activity_content.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Brent/Desktop/Projects/MedGo/app/src/main/res/layout/activity_edit_profile_photo.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Brent/Desktop/Projects/MedGo/app/src/main/res/layout/activity_main.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Brent/Desktop/Projects/MedGo/app/src/main/res/layout/activity_register.xml" value="0.1408514492753623" />
+        <entry key="..\:/Users/Brent/Desktop/Projects/MedGo/app/src/main/res/layout/activity_splash_screen.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Brent/Desktop/Projects/MedGo/app/src/main/res/layout/app_bar_content.xml" value="0.1" />
+        <entry key="..\:/Users/Brent/Desktop/Projects/MedGo/app/src/main/res/layout/content_content.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Brent/Desktop/Projects/MedGo/app/src/main/res/layout/fragment_accset.xml" value="0.1" />
+        <entry key="..\:/Users/Brent/Desktop/Projects/MedGo/app/src/main/res/layout/fragment_chat.xml" value="0.1" />
+        <entry key="..\:/Users/Brent/Desktop/Projects/MedGo/app/src/main/res/layout/fragment_gallery.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Brent/Desktop/Projects/MedGo/app/src/main/res/layout/fragment_help.xml" value="0.1" />
+        <entry key="..\:/Users/Brent/Desktop/Projects/MedGo/app/src/main/res/layout/fragment_home.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Brent/Desktop/Projects/MedGo/app/src/main/res/layout/fragment_settings.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Brent/Desktop/Projects/MedGo/app/src/main/res/layout/fragment_slideshow.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Brent/Desktop/Projects/MedGo/app/src/main/res/layout/fragment_wallet.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Brent/Desktop/Projects/MedGo/app/src/main/res/layout/help_fragment.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Brent/Desktop/Projects/MedGo/app/src/main/res/layout/nav_header_content.xml" value="0.22" />
+        <entry key="..\:/Users/Brent/Desktop/Projects/MedGo/app/src/main/res/layout/settings_fragment.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Brent/Desktop/Projects/MedGo/app/src/main/res/menu/activity_main_drawer.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Brent/Desktop/Projects/MedGo/app/src/main/res/menu/content.xml" value="0.17552083333333332" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK" />
+</project>
